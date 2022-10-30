@@ -1,5 +1,5 @@
 {
-  "name": "react-native-auto-height-image",
+  "name": "rn-auto-height-image",
   "version": "1.0.0",
   "description": "react-native auto height image",
   "main": "./index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:vivaxy/react-native-auto-height-image.git"
+    "url": "git@github.com:vivaxy/rn-auto-height-image.git"
   },
   "keywords": [
     "react-native",
@@ -22,7 +22,7 @@
     "react",
     "images"
   ],
-  "author": "vivaxy",
+  "author": "AhmedElRoba",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.7.2"

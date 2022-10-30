@@ -1,6 +1,6 @@
 /**
  * @since 2017-04-24 20:50:41
- * @author vivaxy
+ * @author Ahmed ElRoba
  */
 
 import { Image } from 'react-native';
